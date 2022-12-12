@@ -1,0 +1,62 @@
+html {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-image: url("./images/pngtree-taobao-technology-finance-business-blue-leisure-calculator-poster-background-picture-image_1083076.png");
+  width: auto;
+  height: auto;
+}
+
+.main-section {
+  margin-top: 250px;
+  scale: 4;
+}
+
+#row {
+  display: flex;
+}
+
+.display {
+  border: 1px solid;
+  width: 87px;
+  height: 31px;
+  text-align: right;
+  border-radius: 3px;
+  background-color: white;
+}
+
+.button-clear {
+  width: 72px;
+  background-color: #13f9d2;
+  border-radius: 5px;
+  border: none;
+  height: 21px;
+}
+
+.button-operation {
+  width: 24px;
+}
+
+.button-point {
+  width: 23.5px;
+}
+
+.button-result {
+  border-radius: 5px;
+  border: none;
+  width: 47px;
+  height: 20px;
+  background-color: #13f9d2;
+}
+
+.button:hover {
+  background-color: #d4a130;
+  color: white;
+}
+.button{
+      width: 24px;
+}
+
+.button-add{
+  width: 24px;
+}
